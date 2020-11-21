@@ -23,6 +23,6 @@ I'm a developer, designer, and graduate student at University of Toronto.
 </br>
 </br>
 
-### <a src="rb.gy/o2krdf">Connet with me</a>
+### [Connect with me](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738)](https://github.com/anuraghazra/github-readme-stats)
