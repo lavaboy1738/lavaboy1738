@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm lavaboy1738
 
-For whatever reason that brought you here, welcome to my github. I hope you're having a decent day.
+For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
-I'm a developer, UI designer, and graduate student at University of Toronto. 
+I'm a developer, a UI/UX designer, and a graduate student at University of Toronto. 
 
 - 🔭 I’m currently working on building more projects with popular frameworks
 - 🌱 I’m currently learning node and three.js
-- 😌 I’m looking forward to life going back to normal again.
+- 😌 I’m looking forward to Floyd Mayweather's comeback in Feburary.
 
 ### Languages and tools: 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
