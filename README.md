@@ -31,7 +31,7 @@ I'm a developer, a UI/UX designer, and a graduate student at University of Toron
 </br>
 
 ### Recognitions: 
-<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSSDA - Special Kudos Award, Avg. 7.9, UI Award, UX Award, Innovation Award, Feb 09</a>
+<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - Special Kudos Award, Avg. 7.9, UI Award, UX Award, Innovation Award, Feb 09</a>
 </br>
 <a href="https://www.csswinner.com/details/ronnie-feng-portfolio/15167" target="_blank">CSS Winner - Site of the Day, Avg 7.6, Feb 09</a>
 </br>
