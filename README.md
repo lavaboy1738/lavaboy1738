@@ -2,11 +2,11 @@
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
-I'm a developer, a UI/UX designer, and a graduate student at University of Toronto. 
+I'm an interactive developer (occassionally a UI/UX designer) and finishing up grad school at University of Toronto. 
 
-- 🔭 I’m currently working on building more projects with popular frameworks
+- 🔭 I’m currently building my own UI library
 - 🌱 I’m currently learning node and three.js
-- 😌 I’m looking forward to Floyd Mayweather's comeback in Feburary.
+- 🤝 I’m open to work and discussing any professional opportunities.
 
 ### Languages and tools: 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
