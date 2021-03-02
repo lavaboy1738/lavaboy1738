@@ -49,6 +49,6 @@ I'm an interactive developer (occassionally a UI/UX designer) and finishing up g
 
 ### [Connect with me](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavaboy1738&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738&show_icons=true)](https://youtu.be/xvFZjo5PgG0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavaboy1738&layout=compact)](https://youtu.be/xvFZjo5PgG0)
 
