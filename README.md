@@ -31,6 +31,8 @@ I'm an interactive developer (occassionally a UI/UX designer) and finishing up g
 </br>
 
 ### Recognitions: 
+<a href="https://www.awwwards.com/jury-member/ronnie-feng" target="-_blank">Awwwards - Young Jury Member</a>
+</br>
 <a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Honorable Mention, Feb 15</a>
 </br>
 <a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Mobile Excellence, Feb 15</a>
