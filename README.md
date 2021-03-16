@@ -49,7 +49,7 @@ I'm an interactive developer (occassionally a UI/UX designer) and finishing up g
 </br>
 </br>
 
-### [Connect with me](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+### [Resume](https://drive.google.com/file/d/1ETagP6Klf87zNvq0prhYlE0UVH4AN3pl/view?usp=sharing)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738&show_icons=true)](https://youtu.be/xvFZjo5PgG0)
 </br>
