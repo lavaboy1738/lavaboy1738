@@ -3,6 +3,8 @@
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
 I'm an interactive developer (occassionally a UI/UX designer) and finishing up grad school at University of Toronto. 
+<br/>
+I strive to create memorable experience on the digital canvas. Front-end addicted, fullstack capable, with a strong emphasis on Typescript.
 
 - 🔭 I’m currently building my own UI library
 - 🌱 I’m currently learning node and three.js
@@ -49,7 +51,7 @@ I'm an interactive developer (occassionally a UI/UX designer) and finishing up g
 </br>
 </br>
 
-### [Resume](https://drive.google.com/file/d/1ETagP6Klf87zNvq0prhYlE0UVH4AN3pl/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1oQTW0o3phm8o8VRtGc_6vw6vwlDDrdVO/view?usp=sharing)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lavaboy1738&show_icons=true)](https://youtu.be/xvFZjo5PgG0)
 </br>
