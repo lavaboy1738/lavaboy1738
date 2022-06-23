@@ -2,7 +2,7 @@
 
 For whatever reason that brought you here, welcome to my github profile. I hope you're having a decent day.
 <br/>
-I'm an interactive developer (occassionally a UI/UX designer) at <a href="https://floatcard.com/" target="-_blank">Float</a>. 
+I'm an interactive developer (I occassionally do some UI/UX design) at <a href="https://floatcard.com/" target="-_blank">Float</a>. 
 <br/>
 I strive to create memorable experience on the digital canvas. Front-end addicted, fullstack capable, with a strong emphasis on Typescript.
 
