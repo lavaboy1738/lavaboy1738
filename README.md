@@ -33,6 +33,8 @@ I strive to create memorable experience on the digital canvas. Front-end addicte
 </br>
 
 ### Recognitions: 
+<a href="https://www.awwwards.com/jury-member/ronnie-feng" target="-_blank">Awwwards - 2022 Official Jury Member</a>
+</br>
 <a href="https://www.awwwards.com/jury-member/ronnie-feng" target="-_blank">Awwwards - Young Jury Member</a>
 </br>
 <a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Honorable Mention, Feb 15</a>
