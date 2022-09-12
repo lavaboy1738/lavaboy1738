@@ -37,19 +37,19 @@ I strive to create memorable experience on the digital canvas. Front-end addicte
 </br>
 <a href="https://www.awwwards.com/jury-member/ronnie-feng" target="-_blank">Awwwards - Young Jury Member</a>
 </br>
-<a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Honorable Mention, Feb 15</a>
+<a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Honorable Mention, Feb 15, 2021</a>
 </br>
-<a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Mobile Excellence, Feb 15</a>
+<a href="https://www.awwwards.com/sites/ronnie-feng-portfolio" target="-_blank">Awwwards - Mobile Excellence, Feb 15, 2021</a>
 </br>
-<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - Special Kudos Award, Avg. 7.9, Feb 09</a>
+<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - Special Kudos Award, Avg. 7.9, Feb 09, 2021</a>
 </br>
-<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - UI Award, Feb 09</a>
+<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - UI Award, Feb 09, 2021</a>
 </br>
-<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - UX Award, Feb 09</a>
+<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - UX Award, Feb 09, 2021</a>
 </br>
-<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - Innovation Award, Feb 09</a>
+<a href="https://www.cssdesignawards.com/sites/ronnie-feng-portfolio/38590/" target="-_blank">CSS Design Awards - Innovation Award, Feb 09, 2021</a>
 </br>
-<a href="https://www.csswinner.com/details/ronnie-feng-portfolio/15167" target="_blank">CSS Winner - Site of the Day, Avg 7.6, Feb 09</a>
+<a href="https://www.csswinner.com/details/ronnie-feng-portfolio/15167" target="_blank">CSS Winner - Site of the Day, Avg 7.6, Feb 09, 2021</a>
 </br>
 </br>
 
