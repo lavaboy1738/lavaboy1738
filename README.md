@@ -5,10 +5,12 @@ For whatever reason that brought you here, welcome to my github profile. I hope 
 I'm an interactive developer (I occassionally do some UI/UX design) at <a href="https://floatcard.com/" target="-_blank">Float</a>. 
 <br/>
 I strive to create memorable experience on the digital canvas. Front-end addicted, fullstack capable, with a strong emphasis on Typescript.
+<br/>
+You can <a href="https://www.buymeacoffee.com/ronniefeng" target="-_blank">buy me a coffee</a> if you feel that my content or code was helpful to you.
 
 - 🔭 I’m currently working with an awesome team to build a Fintech webapp.
 - 🌱 I’m striving to become a better front-end every single day.
-- 🤝 I’m open to discuss opportunities if you have awesome designs.
+- 🥘 I’m cooking up some content and building a new portfolio.
 
 ### Languages and tools: 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
